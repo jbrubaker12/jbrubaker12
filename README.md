@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Jayce
-- 👀 I have a background in Networking and Cybersecurity.
+- 👀 I have a background in Networking / Cybersecurity / Software Development.
 - 💞️ I’m looking to collaborate on projects/learn new things.
 - 📫 If you would like me to help out on a project that you are working on and want to collaborate then please email me at: brubakerjayce@gmail.com
 
